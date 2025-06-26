@@ -5,7 +5,7 @@ const Home = () => {
       <div className="content">
         <h1>Welcome to the Home Page</h1>
         <p>This is a protected route, accessible only after login.</p>
-        <p>This is a Ganesh work</p>
+        <p>This is a Ganesh work ✅</p>
       </div>
     </div>
   );
